@@ -15,9 +15,8 @@ function Footer() {
           >
             Made with <IconHeart size={14} style={{ marginBottom: "-3px" }} />{" "}
             by{" "}
-            <a href=" https://therohitbansal.netlify.app/" target="_blank">
-              Rohit Bansal
-            </a>{" "}
+              Barsha Rani
+            {" "}
           </Text>
         }
         labelPosition="center"
